@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="my_notes">Мои записи</string>
+    <string name="fab_content">add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Заголовок</string>
+    <string name="storage_permissions">Приложению необходим доступ к памяти</string>
+    <string name="subTitles">Подзаголовок</string>
+    <string name="enterText">Введите текст</string>
+    <string name="date">Дата и время</string>
+    <string name="add_image">Добавить изображение</string>
+    <string name="add_link">Добавить ссылку</string>
+    <string name="delete_note">Удалить запись</string>
+</resources>
